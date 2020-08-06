@@ -24,11 +24,11 @@ public class Beagle {
         System.out.println("Enter the plaintext: ");
         String plaintext = sc.nextLine();
         System.out.println("Enter the shift value: ");
-        
+
         int shift = sc.nextInt();
         String ciphertext = "";
         char character;
-        
+
         for(int i=0; i < plaintext.length();i++)
 
         {
@@ -71,7 +71,7 @@ public class Beagle {
         System.out.println("Input the ciphertext message : ");
         String ciphertext = sc.nextLine();
         System.out.println("Enter the shift value : ");
-       
+
         int shift = sc.nextInt();
         String cDecrypt = "";
         for(int i=0; i < ciphertext.length();i++)
@@ -112,4 +112,5 @@ public class Beagle {
         }
         System.out.println("decrypt message : " + cDecrypt);
     }
+
 }

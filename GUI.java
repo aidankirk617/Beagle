@@ -1,7 +1,9 @@
 package Beagle;
 import javax.swing.*;
+import java.applet.Applet;
+import java.awt.*;
 
-public class GUI {
+public class GUI extends Applet {
 
     private static JLabel userLabel;
     private static JTextField Text;
