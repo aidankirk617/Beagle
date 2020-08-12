@@ -87,7 +87,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/aidankirk617/CataBot.git
+git clone https://github.com/aidankirk617/Beagle.git
 ```
 
 <!-- USAGE EXAMPLES -->
