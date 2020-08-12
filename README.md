@@ -5,10 +5,10 @@
     <img src="images/logo1.jpg" alt="Logo" width="400" height="400">
   </a>
 
-  <h3 align="center">CataBot</h3>
+  <h3 align="center">Beagle</h3>
 
   <p align="center">
-    A modular Discord bot for WCU students
+    Symmetric Encryption Tool
     <br />
     <a href="https://github.com/aidankirk617/CataBot"><strong>Explore the docs »</strong></a>
     <br />
@@ -16,9 +16,9 @@
     <!-- Commented out until we have a live demo -->
     <!--<a href="https://github.com/github_username/repo">View Demo</a> -->
     ·
-    <a href="https://github.com/aidankirk617/CataBot/issues">Report Bug</a>
+    <a href="https://github.com/aidankirk617/Beagle/issues">Report Bug</a>
     ·
-    <a href="https://github.com/aidankirk617/CataBot/issues">Request Feature</a>
+    <a href="https://github.com/aidankirk617/Beagle/issues">Request Feature</a>
   </p>
 </p>
 
@@ -59,22 +59,15 @@
 
 <!--[![Produc Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Catabot is a modular discord bot created to help WCU students navigate their day to day school life with ease.
+Beagle Encryption Tool (BET) is an all in one cipher encoder/decoder written in Python. The project aims to bring a lightweight/user accessible option to newcomers in the Cyber-Security field, as well as a free alternative to industry standard programs.
 
-New student or old student, it gets very hectic trying to keep up with campus events,
-hours of operation, or even what’s for dinner tonight in the cafeteria. Through a
-simple question command, members of the WCU Computer Science discord can ask Catabot
-any of these questions and get an immediate response. No more internet searches, no
-more looking through the notes section of your phone, and thankfully no more asking 
-strangers on the street for help. That’s called social interaction, and as Computer Science majors,
-we don’t support it.
+My love of ciphers and code-breaking started from a young age. Anything from pen and paper puzzles, to morse code, had me hooked for hours on end. With my recent inclusion into the cyber-security field, I’m not only just able to study the science behind these puzzles, but write tools to help crack them as well. Like a Beagle itself, I hope to create an engine that’s able to take a code, and sniff out the correct string, while explaining the process behind it in a simplified form for those starting to study the science.
 
-Catabot also serves as an open source group project between Computer Science 
-students, utilizing the agile development lifecycle, as well as SCRUM. This
-creates not only an efficient and objective oriented work environment, but
-provides students of WCU the experience of working on a development team before
-graduation, or even engaging in possible internships. This not only strengthens
-our Computer Science education, but also makes way to ease WCU students into the workforce.
+While there are many more advanced cryptography engines and scripts out there, that isn’t where the focus of this project is at. BET’s focus is on providing hands-on education and experience with cryptography subjects, while remaining accessible and easy to use.‌ An enjoyable and efficient gateway towards an industry that can be daunting, and hard to break into.
+
+This is currently an independent project, meaning all patches, new releases, and hosting this site is entirely done by myself outside of university hours. Because of this, I‌ hope a slower build process is understandable. Currently at this time, BET supports four different ciphers. Almost all of them completely functional, and capable of both encryption, and decryption back and forth. I plan to expand it’s library of ciphers in the future, while also adding many other methods of code breaking such as Base64 and Hex.
+
+If you’re interested in the project and want to help support, go ahead and follow the repo. If you have any personal questions or want to help contribute, send me an email. I’m always open to new suggestions and ideas. Hope to update soon
 
 ### Built With
 
@@ -102,10 +95,6 @@ npm install npm@latest -g
 1. Clone the repo
 ```sh
 git clone https://github.com/aidankirk617/CataBot.git
-```
-2. Install NPM packages
-```sh
-npm install
 ```
 
 <!-- USAGE EXAMPLES -->
