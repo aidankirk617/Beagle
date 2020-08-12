@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <!-- <a href="https://github.com/aidankirk617/CataBot"> -->
+    <!-- <a href="https://github.com/aidankirk617/Beagle"> -->
     <img src="images/logo1.jpg" alt="Logo" width="400" height="400">
   </a>
 
@@ -10,7 +10,7 @@
   <p align="center">
     Symmetric Encryption Tool
     <br />
-    <a href="https://github.com/aidankirk617/CataBot"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/aidankirk617/Beagle"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!-- Commented out until we have a live demo -->
@@ -30,12 +30,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][https://github.com/aidankirk617/CataBot/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/aidankirk617/CataBot/network/members]
-[![Stargazers][stars-shield]][https://github.com/aidankirk617/CataBot/stargazers]
-[![Issues][issues-shield]][https://github.com/aidankirk617/CataBot/issues]
-[![MIT License][license-shield]][LICENSE.md] 
-
+![GitHub All Releases](https://img.shields.io/github/downloads/aidankirk617/Beagle/total)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
