@@ -82,13 +82,6 @@ If you’re interested in the project and want to help support, go ahead and fol
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
 
 ### Installation
 
@@ -137,18 +130,16 @@ Distributed under the ____ License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Aidan Kirk - [aidankirk617@gmail.com]()
 
-Project Link: [https://github.com/aidankirk617/CataBot#built-with](https://github.com/aidankirk617/CataBot#built-with)
+Project Link: [https://github.com/aidankirk617/Beagle](https://github.com/aidankirk617/Beagle#built-with)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Future Implementations
 
-* [Weekly menu items for cafeteria](https://www.youtube.com/watch?v=C1AauAyQ_wg)
-* [Hours of operation](https://www.youtube.com/watch?v=C1AauAyQ_wg)
-* [Events on campus](https://www.youtube.com/watch?v=C1AauAyQ_wg)
+* [Viginere Cipher Support]()
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
