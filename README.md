@@ -2,7 +2,7 @@
 <br />
 <p align="center">
     <!-- <a href="https://github.com/aidankirk617/Beagle"> -->
-    <img src="images/Beagle-a.jpg" alt="Logo" width="400" height="400">
+    <img src="images/Beagle-a.jpg" alt="Logo">
   </a>
 
   <h3 align="center">Beagle</h3>
