@@ -30,7 +30,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-![GitHub All Releases](https://img.shields.io/github/downloads/aidankirk617/Beagle/total)
+![GitHub All Releases](https://img.shields.io/github/downloads/aidankirk617/Beagle/total) ![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/aidankirk617/Beagle) ![GitHub](https://img.shields.io/github/license/aidankirk617/Beagle) ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Faidankirk617.github.io%2FBeagle-Website%2F)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -66,9 +66,10 @@ If you’re interested in the project and want to help support, go ahead and fol
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [Java]()
+* [JavaScript]()
+* [HTML]()
+* [CSS]()
 
 
 
